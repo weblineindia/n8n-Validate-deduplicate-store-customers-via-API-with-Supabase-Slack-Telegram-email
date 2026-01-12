@@ -1,0 +1,2 @@
+# n8n-Validate-deduplicate-store-customers-via-API-with-Supabase-Slack-Telegram-email
+Create a clean, reliable customer intake layer using this n8n workflow automation. It exposes an API that validates and normalizes incoming data, prevents duplicates in Supabase, stores verified customers, and sends Slack, Telegram and email notifications. A robust n8n workflow template for backend data hygiene and integrations.
