@@ -1,4 +1,4 @@
-# (Retail) Customer Cleanup API → Supabase and send Notification
+# (Retail) Customer Cleanup API → Validate, deduplicate and store customers via API with Supabase, Slack, Telegram and email
 
 This workflow provides an API-first solution to validate, clean, deduplicate and store customer data in Supabase. It ensures consistent customer records, prevents duplicates and keeps both internal teams and customers informed through automated notifications.
 
